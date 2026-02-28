@@ -3,5 +3,6 @@ public class HelloWorld {
         System.out.println("Hello, World!");
         System.out.println("Welcome to Java development.");
         // This is a comment for conflict
+        System.out.println("Welcome to Java programming!");
     }
 }
